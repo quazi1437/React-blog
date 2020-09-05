@@ -1,0 +1,20 @@
+.title-bar{
+    text-align: center;
+    
+}
+.compose-form{
+    text-align: center;
+    padding: 20px 0;
+    
+}
+.file-handler{
+    text-align: center;
+    padding: 20px 0;
+    color: blue;
+}
+.textarea-bar{
+    border-radius: 20px;
+    border: khaki;
+    
+
+}
